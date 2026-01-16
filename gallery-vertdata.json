@@ -1,0 +1,25 @@
+{
+  "images": [
+    {
+      "id": "3",
+      "thumb": "https://res.cloudinary.com/dsly5rjb4/image/upload/c_thumb,w_250/v1759808692/Autumn-wind-wvld.jpg",
+      "view": "https://res.cloudinary.com/dsly5rjb4/image/upload/v1759808692/Autumn-wind-wvld.jpg",
+      "download": "https://res.cloudinary.com/dsly5rjb4/image/upload/fl_attachment/v1759808692/Autumn-wind-wvld.jpg",
+      "caption": "Autumn wind"
+    },
+    {
+      "id": "2",
+      "thumb": "https://res.cloudinary.com/dsly5rjb4/image/upload/c_thumb,w_250/v1756448603/Stones.jpg",
+      "view": "https://res.cloudinary.com/dsly5rjb4/image/upload/v1756448603/Stones.jpg",
+      "download": "https://res.cloudinary.com/dsly5rjb4/image/upload/fl_attachment/v1756448603/Stones.jpg",
+      "caption": "Stones"
+    },
+    {
+      "id": "1",
+      "thumb": "https://res.cloudinary.com/dsly5rjb4/image/upload/c_thumb,w_250/v1756360738/insectoid.jpg",
+      "view": "https://res.cloudinary.com/dsly5rjb4/image/upload/v1756360738/insectoid.jpg",
+      "download": "https://res.cloudinary.com/dsly5rjb4/image/upload/fl_attachment/v1756360738/insectoid.jpg",
+      "caption": "Insectoid"
+    }
+  ]
+}
